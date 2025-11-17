@@ -26,4 +26,3 @@
 - Stored data using dictionary
 - Used loops + conditions to calculate grade
 - Calculated average marks
-.
